@@ -47,6 +47,5 @@ Sou um profissional obcecado por **eficiência** e **arquitetura de software rob
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **InvestidorBot** | Sistema de extração automática de relatórios financeiros de sites de RI com tratamento de redirects complexos. | Python, Requests, BeautifulSoup |
-| **Nome do Projeto 2** | Descrição curta e objetiva focada no problema resolvido. | Tech 1, Tech 2 |
-| **Nome do Projeto 3** | Descrição curta e objetiva focada no problema resolvido. | Tech 1, Tech 2 |
+| **InvestidorBot** | Sistema de extração automática de relatórios financeiros de sites de RI com tratamento de redirects complexos. | Python |
+
