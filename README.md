@@ -1,9 +1,12 @@
 <div align="center">
-  <h1>Olá, pode me chamar de Leo! 👋</h1>
-  <h3>Desenvolvedor Focado em Eficiência, Automação e Engenharia de Dados</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Leo!+%F0%9F%91%8B;Desenvolvedor+Python;Focado+em+Automa%C3%A7%C3%A3o+e+Dados" alt="Typing SVG" />
   
+  <p align="center">
+    <b>Análise de dados | Automação | Dashboards</b>
+  </p>
+
   <a href="https://linkedin.com/in/leonardobezrr">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Connect-Leonardo_Bezerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -33,8 +36,8 @@ Sou um profissional obcecado por **eficiência** e **arquitetura de software rob
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardobezrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobezrr&layout=compact&theme=dracula"/>
   </a>
 </div>
 
