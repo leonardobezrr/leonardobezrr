@@ -1,8 +1,49 @@
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/leobezrr_/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.link/12cuso)
-<a href="https://www.linkedin.com/in/leonardo-bezerra-9493b269/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+  <h1>Olá, pode me chamar de Leo! 👋</h1>
+  <h3>Desenvolvedor Focado em Eficiência, Automação e Engenharia de Dados</h3>
+  
+  <a href="https://linkedin.com/in/leonardobezrr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
+---
+
+### 🚀 Sobre Mim
+
+Sou um profissional obcecado por **eficiência** e **arquitetura de software robusta**. Minha abordagem combina criatividade na resolução de problemas com o rigor técnico de quem confere tudo duas vezes.
+
+- 🔭 Atualmente estou trabalhando em: **Bot de Extração de Dados Financeiros (Web Scraping)**.
+- 🌱 Atualmente estou aprimorando: **Playwright, Engenharia de Dados e Clean Architecture**.
+- 💡 Busco colaborar em: Projetos open-source de automação e análise de dados.
+
+---
+
+### 🛠️ Arsenal Tecnológico
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+---
+
+### 📊 Métricas do GitHub
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 🏆 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **InvestidorBot** | Sistema de extração automática de relatórios financeiros de sites de RI com tratamento de redirects complexos. | Python, Requests, BeautifulSoup |
+| **Nome do Projeto 2** | Descrição curta e objetiva focada no problema resolvido. | Tech 1, Tech 2 |
+| **Nome do Projeto 3** | Descrição curta e objetiva focada no problema resolvido. | Tech 1, Tech 2 |
