@@ -36,8 +36,8 @@ Sou um profissional obcecado por **eficiência** e **arquitetura de software rob
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://https://github-readme-stats-zeta-blond-67.vercel.app/api?username=leonardobezrr&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180" src="https://https://github-readme-stats-zeta-blond-67.vercel.app/api/top-langs/?username=leonardobezrr&layout=compact&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats-zeta-blond-67.vercel.app/api?username=leonardobezrr&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180" src="https://github-readme-stats-zeta-blond-67.vercel.app/api/top-langs/?username=leonardobezrr&layout=compact&theme=dracula"/>
   </a>
 </div>
 
