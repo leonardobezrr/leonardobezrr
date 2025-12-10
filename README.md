@@ -14,10 +14,10 @@
 
 ### 🚀 Sobre Mim
 
-Sou um profissional obcecado por **eficiência** e **arquitetura de software robusta**. Minha abordagem combina criatividade na resolução de problemas com o rigor técnico de quem confere tudo duas vezes.
+Sou um profissional extremamente dedicado. Minha abordagem combina não só a criatividade na resolução de problemas com o rigor técnico, como também a persistência em atingir os objetivos.
 
 - 🔭 Atualmente estou trabalhando em: **Bot de Extração de Dados Financeiros (Web Scraping)**.
-- 🌱 Atualmente estou aprimorando: **Playwright, Engenharia de Dados e Clean Architecture**.
+- 🌱 Atualmente estou aprimorando: **Tecnologias de análise de dados e IA**.
 - 💡 Busco colaborar em: Projetos open-source de automação e análise de dados.
 
 ---
