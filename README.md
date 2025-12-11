@@ -48,4 +48,5 @@ Sou um profissional extremamente dedicado. Minha abordagem combina não só a cr
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | **InvestidorBot** | Sistema de extração automática de relatórios financeiros de sites de RI com tratamento de redirects complexos. | Python |
+| **HealthTracker** | Sistema de extração automática de exames médicos para análise ampla e detalhada. | Python |
 
