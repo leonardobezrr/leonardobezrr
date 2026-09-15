@@ -16,9 +16,10 @@
 
 Sou um profissional extremamente dedicado. Minha abordagem combina não só a criatividade na resolução de problemas com o rigor técnico, como também a persistência em atingir os objetivos.
 
-- 🔭 Atualmente estou trabalhando em: **Bot de Extração de Dados Financeiros (Web Scraping)**.
-- 🌱 Atualmente estou aprimorando: **Tecnologias de análise de dados e IA**.
-- 💡 Busco colaborar em: Projetos open-source de automação e análise de dados.
+- 🔭 Atualmente estou:<br>
+• Graduando em Nutrição pela UFRN <br>
+• Iniciação Científica CNPq <br>
+• Consultor Magistral - A Fórmula <br>
 
 ---
 
