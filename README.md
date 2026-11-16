@@ -19,7 +19,6 @@ Sou um profissional extremamente dedicado. Minha abordagem combina não só a cr
 - 🔭 Atualmente estou:<br>
 • Graduando em Nutrição pela UFRN <br>
 • Iniciação Científica CNPq <br>
-• Consultor Magistral - A Fórmula <br>
 
 - Hoobies, coisas que gosto: <br>
 • Estar em família <br>
