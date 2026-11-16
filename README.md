@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/leonardobezrr">
+<a href="https://www.linkedin.com/in/leobezrr">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/leobezrr_/">
@@ -53,7 +53,7 @@ Sou um profissional extremamente dedicado. Minha abordagem une a criatividade na
 
 ## 📬 Vamos conversar?
 
-Me encontre no [LinkedIn](https://www.linkedin.com/in/leonardobezrr) ou no [Instagram](https://www.instagram.com/leobezrr_/).
+Me encontre no [LinkedIn](https://www.linkedin.com/in/leobezrr) ou no [Instagram](https://www.instagram.com/leobezrr_/).
 
 <div align="center">
 
